@@ -4,3 +4,4 @@ Git status.
 Git diff.
 Git diff 1
 Git branch 
+Git Merge
